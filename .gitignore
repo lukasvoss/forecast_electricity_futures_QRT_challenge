@@ -1,0 +1,3 @@
+venv/
+supp_material/
+*.csv # Cannot publish training and test data without permission
